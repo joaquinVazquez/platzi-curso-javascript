@@ -7,8 +7,8 @@ const lista1 = [
 
 const mitadLista1 = parseInt(lista1.length / 2);
 
-function esPar(numerillo){
-    if(numerillo % 2 === 0 ){
+function esPar(numerito){
+    if(numerito % 2 === 0 ){
         return true;
     }else{
         return false;
